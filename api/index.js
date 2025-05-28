@@ -1,16 +1,18 @@
 const express = require("express");
 const path = require("path");
 const cors = require("cors");
+const vercelAnalytics = require("@vercel/analytics")
 
 const products = require("./public/ice-creams/products.json");
 const reviews = require("./public/ice-creams/reviews.json");
 
 const app = express();
 
+vercelAnalytics.inject();
+
 // Allow only a specific domain
 const allowedDomains = [
-  "https://frostbite-flax.vercel.app",
-  "http://localhost:4200",
+  "https://frostbite-flax.vercel.app"
 ];
 
 const corsOptions = {
@@ -18,7 +20,7 @@ const corsOptions = {
     if (allowedDomains.includes(origin)) {
       callback(null, true);
     } else {
-      callback(new Error("Not allowed by CORS"));
+      callback(null, false);
     }
   },
   optionsSuccessStatus: 200, // For legacy browser support
