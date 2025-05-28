@@ -9,7 +9,7 @@ app.use(express.static(path.join(__dirname, "public")));
 
 app.get("/", (req, res) =>
   res.send(
-    "Backend for frostbite ice cream shop... </br> /api/products for all products. <br> /api/reviews/:key for reviews bassed on the product's key."
+    "Backend for frostbite ice cream shop... </br> /api/products for all products. <br> /api/reviews/:key for reviews bassed on the product's key. </br> /ice-creams/images/{ product_key }.png for images."
   )
 );
 
