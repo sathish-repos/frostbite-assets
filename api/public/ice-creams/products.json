@@ -5,7 +5,8 @@
     "description": "A truly exquisite ice cream inspired by fine chocolate truffles. We begin with pure white chocolate ice cream and swirl in satisfying chunks of chocolaty fudge truffles and a tangy raspberry ribbon.",
     "rating": 4.9,
     "rating_count": 168,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, RASPBERRY PUREE, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, COCONUT OIL, SOYBEAN OIL, COCOA PROCESSED WITH ALKALI, COCOA POWDER, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, PECTIN, COCOA BUTTER, SALT, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, RASPBERRY PUREE, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, COCONUT OIL, SOYBEAN OIL, COCOA PROCESSED WITH ALKALI, COCOA POWDER, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, PECTIN, COCOA BUTTER, SALT, VANILLA EXTRACT",
+    "price": 50
   },
   {
     "key": "1_hd",
@@ -13,7 +14,8 @@
     "description": "Ribbons of rich peanut butter and bits of chocolate chips are folded into sweet banana ice cream to create this playfully indulgent flavor.",
     "rating": 4.7,
     "rating_count": 80,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, PEANUTS, BANANA PUREE, EGG YOLKS, COCONUT OIL, PEANUT OIL, COCOA PROCESSED WITH ALKALI, BUTTER OIL, SOY LECITHIN, SALT, NATURAL FLAVOR, MILK"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, PEANUTS, BANANA PUREE, EGG YOLKS, COCONUT OIL, PEANUT OIL, COCOA PROCESSED WITH ALKALI, BUTTER OIL, SOY LECITHIN, SALT, NATURAL FLAVOR, MILK",
+    "price": 90
   },
   {
     "key": "2_hd",
@@ -21,7 +23,8 @@
     "description": "Treat yourself to ice cream infused with smooth Bourbon sprinkled with brown sugar and given the perfect crunch with praline pecans.",
     "rating": 4.1,
     "rating_count": 191,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, BROWN SUGAR, EGG YOLKS, PECANS, CORN SYRUP, MOLASSES, SWEETENED CONDENSED SKIM MILK (SKIM MILK, SUGAR), MAPLE SYRUP, BUTTER (CREAM, SALT), NATURAL FLAVORS (CONTAINS BARLEY), PECTIN, SALT, CORN STARCH, BAKING SODA, CARAMEL FLAVOR, BOURBON"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, BROWN SUGAR, EGG YOLKS, PECANS, CORN SYRUP, MOLASSES, SWEETENED CONDENSED SKIM MILK (SKIM MILK, SUGAR), MAPLE SYRUP, BUTTER (CREAM, SALT), NATURAL FLAVORS (CONTAINS BARLEY), PECTIN, SALT, CORN STARCH, BAKING SODA, CARAMEL FLAVOR, BOURBON",
+    "price": 50
   },
   {
     "key": "3_hd",
@@ -29,7 +32,8 @@
     "description": "A classic pairing made even better, enjoy creamy vanilla bean ice cream dotted with chocolate truffles and swirled with spicy Bourbon.",
     "rating": 4,
     "rating_count": 89,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, HONEY, EGG YOLKS, BROWN SUGAR, MOLASSES, COCONUT OIL, SOYBEAN OIL, COCOA PROCESSED WITH ALKALI, BOURBON, COCOA, CORN STARCH, GROUND VANILLA BEANS, NATURAL FLAVORS, VANILLA EXTRACT, PECTIN, SOY LECITHIN"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, HONEY, EGG YOLKS, BROWN SUGAR, MOLASSES, COCONUT OIL, SOYBEAN OIL, COCOA PROCESSED WITH ALKALI, BOURBON, COCOA, CORN STARCH, GROUND VANILLA BEANS, NATURAL FLAVORS, VANILLA EXTRACT, PECTIN, SOY LECITHIN",
+    "price": 80
   },
   {
     "key": "4_hd",
@@ -37,7 +41,8 @@
     "description": "An American classic, revisited with our passion for singular flavor. We blend spoonful after spoonful of buttery roasted pecans with pure, sweet cream to create a delight like no other.",
     "rating": 4.3,
     "rating_count": 111,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, PECANS, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, COCONUT OIL, SALT, BUTTER, CREAM, SALT, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, PECANS, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, COCONUT OIL, SALT, BUTTER, CREAM, SALT, VANILLA EXTRACT",
+    "price": 60
   },
   {
     "key": "5_hd",
@@ -45,7 +50,8 @@
     "description": "Introducing New Soft Dipped Caramel Ice Cream Bars. A delicious pairing of indulgent caramel ice cream with a rich caramel swirl, covered in a soft chocolate truffle coating.",
     "rating": 4.9,
     "rating_count": 8,
-    "ingredients": "CARAMEL ICE CREAM: CREAM, SKIM MILK, SUGAR, EGG YOLKS, SWEETENED CONDENSED MILK (CONDENSED MILK SUGAR), CORN SYRUP, SALT, PECTIN, BAKING SODA, VANILLA EXTRACT. CHOCOLATY COATING: SUGAR, COCOA PROCESSED WITH ALKALI, CANOLA OIL, PALM OIL, MILKFAT, SOY LECITHIN. SALTED CARAMEL SWIRL: CORN SYRUP, SWEETENED CONDENSED MILK (CONDENSED MILK SUGAR), CREAM, SUGAR, WATER, BUTTER (CREAM, SALT), SALT, PECTIN, MILKFAT, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS"
+    "ingredients": "CARAMEL ICE CREAM: CREAM, SKIM MILK, SUGAR, EGG YOLKS, SWEETENED CONDENSED MILK (CONDENSED MILK SUGAR), CORN SYRUP, SALT, PECTIN, BAKING SODA, VANILLA EXTRACT. CHOCOLATY COATING: SUGAR, COCOA PROCESSED WITH ALKALI, CANOLA OIL, PALM OIL, MILKFAT, SOY LECITHIN. SALTED CARAMEL SWIRL: CORN SYRUP, SWEETENED CONDENSED MILK (CONDENSED MILK SUGAR), CREAM, SUGAR, WATER, BUTTER (CREAM, SALT), SALT, PECTIN, MILKFAT, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS",
+    "price": 80
   },
   {
     "key": "6_hd",
@@ -53,7 +59,8 @@
     "description": "We balance a creamy blend of caramel ice cream and rich caramel swirls with the sweet crunch of chocolaty cone pieces to create a sweet, harmonious bite.",
     "rating": 4.7,
     "rating_count": 185,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, SWEETENED CONDENSED MILK, MILK, SUGAR, CORN SYRUP, BUTTER, CREAM, SALT, SALT, PECTIN, NATURAL FLAVOR, SUGAR, CONE PIECES, WHEAT FLOUR, SUGAR, SOYBEAN OIL, SOY LECITHIN, SALT, COCONUT OIL, COCOA, COCOA PROCESSED WITH ALKALI, BUTTER OIL, SUGAR, CONDENSED SKIM MILK, CORN SYRUP, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, NATURAL FLAVOR, BAKING SODA"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, SWEETENED CONDENSED MILK, MILK, SUGAR, CORN SYRUP, BUTTER, CREAM, SALT, SALT, PECTIN, NATURAL FLAVOR, SUGAR, CONE PIECES, WHEAT FLOUR, SUGAR, SOYBEAN OIL, SOY LECITHIN, SALT, COCONUT OIL, COCOA, COCOA PROCESSED WITH ALKALI, BUTTER OIL, SUGAR, CONDENSED SKIM MILK, CORN SYRUP, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, NATURAL FLAVOR, BAKING SODA",
+    "price": 50
   },
   {
     "key": "7_hd",
@@ -61,7 +68,8 @@
     "description": "Your favorite Caramel Pizzelle Bar, renamed. Golden ribbons of caramel in creamy vanilla gelato, enrobed in rich milk chocolate and crunchy italian style cone pieces.",
     "rating": 4.8,
     "rating_count": 23,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CREAM, SUGAR, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, WHEAT FLOUR, SUGAR, SOYBEAN OIL, SOY LECITHIN"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CREAM, SUGAR, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, WHEAT FLOUR, SUGAR, SOYBEAN OIL, SOY LECITHIN",
+    "price": 90
   },
   {
     "key": "8_hd",
@@ -69,7 +77,8 @@
     "description": "The cherries of spring lend their delightful taste to our cherry vanilla ice cream. It is the perfect combination of pure, sweet cream and juicy black cherries.",
     "rating": 4.2,
     "rating_count": 26,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, BLACK CHERRIES, EGG YOLKS, CHERRIES, CHERRY JUICE CONCENTRATE, VANILLA EXTRACT, APPLE JUICE, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, PECTIN"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, BLACK CHERRIES, EGG YOLKS, CHERRIES, CHERRY JUICE CONCENTRATE, VANILLA EXTRACT, APPLE JUICE, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, PECTIN",
+    "price": 100
   },
   {
     "key": "9_hd",
@@ -77,7 +86,8 @@
     "description": "Rich, creamy, and totally indulgent. Made from the finest cocoa and pure, sweet cream, our chocolate ice cream is the ultimate experience.",
     "rating": 4.9,
     "rating_count": 90,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, COCOA PROCESSED WITH ALKALI, EGG YOLKS"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, COCOA PROCESSED WITH ALKALI, EGG YOLKS",
+    "price": 60
   },
   {
     "key": "10_hd",
@@ -85,7 +95,8 @@
     "description": "Introducing New Soft Dipped Chocolate Ice Cream Bars. A decadent pairing of rich chocolate ice cream covered in a soft chocolate truffle coating.",
     "rating": 2.6,
     "rating_count": 25,
-    "ingredients": "CHOCOLATE ICE CREAM: CREAM, SKIM MILK, SUGAR, COCOA PROCESSED WITH ALKALI, EGG YOLKS. CHOCOLATY COATING: SUGAR, COCOA PROCESSED WITH ALKALI, CANOLA OIL, PALM OIL, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS"
+    "ingredients": "CHOCOLATE ICE CREAM: CREAM, SKIM MILK, SUGAR, COCOA PROCESSED WITH ALKALI, EGG YOLKS. CHOCOLATY COATING: SUGAR, COCOA PROCESSED WITH ALKALI, CANOLA OIL, PALM OIL, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS",
+    "price": 80
   },
   {
     "key": "11_hd",
@@ -93,7 +104,8 @@
     "description": "For those who relish a taste of something playful, we re-created a childhood treat. We blend chunks of buttery cookie dough and sweet fudge chips with our finest pure vanilla ice cream. Ah, such sweet memories.",
     "rating": 3.3,
     "rating_count": 29,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, WHEAT FLOUR, BROWN SUGAR, MOLASSES, SUGAR, BUTTER, CREAM, SALT, EGG YOLKS, COCONUT OIL, VANILLA EXTRACT, COCOA PROCESSED WITH ALKALI, CORN OIL, FRUCTOSE, BUTTER OIL, CORN SYRUP, CORN STARCH, SOY LECITHIN, SALT, BAKING SODA, NATURAL FLAVOR, MILK"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, WHEAT FLOUR, BROWN SUGAR, MOLASSES, SUGAR, BUTTER, CREAM, SALT, EGG YOLKS, COCONUT OIL, VANILLA EXTRACT, COCOA PROCESSED WITH ALKALI, CORN OIL, FRUCTOSE, BUTTER OIL, CORN SYRUP, CORN STARCH, SOY LECITHIN, SALT, BAKING SODA, NATURAL FLAVOR, MILK",
+    "price": 90
   },
   {
     "key": "12_hd",
@@ -101,7 +113,8 @@
     "description": "Our chocolate chocolate chip ice cream is the perfect combination of pure, sweet cream, fine cocoa, and chocolate chips. Truly a decadent ice cream experience.",
     "rating": 4.7,
     "rating_count": 46,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, CHOCOLATE, COCOA PROCESSED WITH ALKALI, EGG YOLKS, COCOA BUTTER, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, CHOCOLATE, COCOA PROCESSED WITH ALKALI, EGG YOLKS, COCOA BUTTER, VANILLA EXTRACT",
+    "price": 60
   },
   {
     "key": "13_hd",
@@ -109,7 +122,8 @@
     "description": "Between the classic rich and creamy chocolate ice cream inside, and the thick and crunchy dark chocolate coating finely drizzled on the outside, this is a chocolate connoisseur's delight.",
     "rating": 4.5,
     "rating_count": 22,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, COCOA PROCESSED WITH ALKALI, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, SOYBEAN OIL"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, COCOA PROCESSED WITH ALKALI, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, SOYBEAN OIL",
+    "price": 60
   },
   {
     "key": "14_hd",
@@ -117,7 +131,8 @@
     "description": "Enjoy an indulgent non-dairy and vegan bar made from Belgian chocolate, cocoa, and swirls of chocolate fudge that’s finished with a decadent rice milk chocolate coating.",
     "rating": 5,
     "rating_count": 22,
-    "ingredients": "WATER, SUGAR, CORN SYRUP, CHOCOLATE, COCONUT OIL, POWDERED SUGAR, SUGAR, CORN STARCH, COCOA BUTTER, SUNFLOWER OIL, COCOA PROCESSED WITH ALKALI, COCOA, SOYBEAN OIL, SOY LECITHIN, PECTIN, VANILLA EXTRACT, SALT, SUNFLOWER LECITHIN"
+    "ingredients": "WATER, SUGAR, CORN SYRUP, CHOCOLATE, COCONUT OIL, POWDERED SUGAR, SUGAR, CORN STARCH, COCOA BUTTER, SUNFLOWER OIL, COCOA PROCESSED WITH ALKALI, COCOA, SOYBEAN OIL, SOY LECITHIN, PECTIN, VANILLA EXTRACT, SALT, SUNFLOWER LECITHIN",
+    "price": 70
   },
   {
     "key": "15_hd",
@@ -125,7 +140,8 @@
     "description": "We start with our legendary chocolate ice cream and swirl in ribbons of creamy, smooth peanut butter. The experience is an irresistible blend of flavors in every delicious mouthful.",
     "rating": 4.2,
     "rating_count": 173,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, PEANUTS, EGG YOLKS, CHOCOLATE, COCOA PROCESSED WITH ALKALI, PEANUT OIL, SALT"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, PEANUTS, EGG YOLKS, CHOCOLATE, COCOA PROCESSED WITH ALKALI, PEANUT OIL, SALT",
+    "price": 70
   },
   {
     "key": "16_hd",
@@ -133,7 +149,8 @@
     "description": "Rich Belgian chocolate is blended with swirls of sweet salted fudge and chunks of fudge truffles to create an incredible non-dairy and vegan indulgence that isn't missing a thing.",
     "rating": 4.8,
     "rating_count": 97,
-    "ingredients": "WATER, SUGAR, CORN SYRUP, BELGIAN CHOCOLATE, POWDERED SUGAR, SUGAR, CORN STARCH, COCOA PROCESSED WITH ALKALI, SUNFLOWER OIL, COCOA, COCONUT OIL, SOYBEAN OIL, SOY LECITHIN, PECTIN, VANILLA EXTRACT, SALT, NATURAL FLAVOR, SUNFLOWER LECITHIN"
+    "ingredients": "WATER, SUGAR, CORN SYRUP, BELGIAN CHOCOLATE, POWDERED SUGAR, SUGAR, CORN STARCH, COCOA PROCESSED WITH ALKALI, SUNFLOWER OIL, COCOA, COCONUT OIL, SOYBEAN OIL, SOY LECITHIN, PECTIN, VANILLA EXTRACT, SALT, NATURAL FLAVOR, SUNFLOWER LECITHIN",
+    "price": 70
   },
   {
     "key": "17_hd",
@@ -141,7 +158,8 @@
     "description": "Introducing new HEAVEN Chocolate Sea Salt Caramel light ice cream. Sink your spoon into dreamy chocolate light ice cream swirled with a ribbon of decadent sea salt caramel.",
     "rating": 4.1,
     "rating_count": 13,
-    "ingredients": "SKIM MILK, CANE SUGAR, CREAM, COCOA PROCESSED WITH ALKALI, EGG YOLKS, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, CANE SUGAR, BUTTER, CREAM, SALT, PECTIN, SEA SALT, SUNFLOWER LECITHIN, BAKING SODA, VITAMIN A PALMITATE"
+    "ingredients": "SKIM MILK, CANE SUGAR, CREAM, COCOA PROCESSED WITH ALKALI, EGG YOLKS, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, CANE SUGAR, BUTTER, CREAM, SALT, PECTIN, SEA SALT, SUNFLOWER LECITHIN, BAKING SODA, VITAMIN A PALMITATE",
+    "price": 50
   },
   {
     "key": "18_hd",
@@ -149,7 +167,8 @@
     "description": "This one-of-a-kind non-dairy and vegan creation gives you more of what you love. Enjoy an irresistible combination of creamy coconut and ribbons of luscious caramel.",
     "rating": 4.9,
     "rating_count": 11,
-    "ingredients": "COCONUT CREAM (COCONUT EXTRACT, WATER), CORN SYRUP, WATER, SUGAR, PECTIN. CARAMEL SWIRL: BROWN SUGAR, COCONUT CREAM (COCONUT EXTRACT, WATER), WATER, SALT, PECTIN"
+    "ingredients": "COCONUT CREAM (COCONUT EXTRACT, WATER), CORN SYRUP, WATER, SUGAR, PECTIN. CARAMEL SWIRL: BROWN SUGAR, COCONUT CREAM (COCONUT EXTRACT, WATER), WATER, SALT, PECTIN",
+    "price": 60
   },
   {
     "key": "19_hd",
@@ -157,7 +176,8 @@
     "description": "Layers of creamy coconut and chocolate ice cream mingle with crisp Belgian milk chocolate and luscious caramel sauce for three times the indulgence.",
     "rating": 4.6,
     "rating_count": 26,
-    "ingredients": "SKIM MILK, SUGAR, EGG YOLKS, COCONUT CREAM, CORN STARCH, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, CREAM, SKIM MILK, SUGAR, COCOA PROCESSED WITH ALKALI, SUGAR, COCONUT OIL, SOY LECITHIN, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CREAM, SUGAR, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, SOY LECITHIN"
+    "ingredients": "SKIM MILK, SUGAR, EGG YOLKS, COCONUT CREAM, CORN STARCH, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, CREAM, SKIM MILK, SUGAR, COCOA PROCESSED WITH ALKALI, SUGAR, COCONUT OIL, SOY LECITHIN, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CREAM, SUGAR, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, SOY LECITHIN",
+    "price": 60
   },
   {
     "key": "20_hd",
@@ -165,7 +185,8 @@
     "description": "Velvety coconut cream is swirled with ribbons of luscious caramel sauce, then dipped in dark chocolate and finished with a rich, dark chocolate drizzle. It raises the bar for non-dairy and vegan indulgence.",
     "rating": 4.6,
     "rating_count": 31,
-    "ingredients": "COCONUT CREAM, COCONUT EXTRACT, WATER, CORN SYRUP, WATER, SUGAR, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, BROWN SUGAR, COCONUT CREAM, COCONUT EXTRACT, WATER, WATER, COCONUT OIL, PECTIN, SALT"
+    "ingredients": "COCONUT CREAM, COCONUT EXTRACT, WATER, CORN SYRUP, WATER, SUGAR, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, BROWN SUGAR, COCONUT CREAM, COCONUT EXTRACT, WATER, WATER, COCONUT OIL, PECTIN, SALT",
+    "price": 60
   },
   {
     "key": "21_hd",
@@ -173,7 +194,8 @@
     "description": "We roast the finest Brazilian coffee beans and brew them to perfection to bring out their rich, complex flavor. the combination of the brew with our pure, creamy ice cream awakens the senses.",
     "rating": 4.6,
     "rating_count": 173,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, COFFEE"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, COFFEE",
+    "price": 70
   },
   {
     "key": "22_hd",
@@ -181,7 +203,8 @@
     "description": "Coffee ice cream bar dipped in rich milk chocolate and almonds.",
     "rating": 4.3,
     "rating_count": 42,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, ALMONDS ROASTED IN VEGETABLE OIL, ALMONDS, SAFFLOWER OIL, TOFFEE, CORN SYRUP, SUGAR, BUTTER, CREAM, SALT, BROWN SUGAR, ALMONDS, BAKING SODA, SOY LECITHIN, SALT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, ALMONDS ROASTED IN VEGETABLE OIL, ALMONDS, SAFFLOWER OIL, TOFFEE, CORN SYRUP, SUGAR, BUTTER, CREAM, SALT, BROWN SUGAR, ALMONDS, BAKING SODA, SOY LECITHIN, SALT",
+    "price": 90
   },
   {
     "key": "23_hd",
@@ -189,7 +212,8 @@
     "description": "We took our beloved Java Chip Ice Cream and made its famous coffee taste even better. Rich, sweet chocolaty chips balance our full-bodied coffee ice cream in this delicious homage to one of life's most perfect pairings.",
     "rating": 3.1,
     "rating_count": 111,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, POWDERED SUGAR, SUGAR, CORN STARCH, EGG YOLKS, COCONUT OIL, COFFEE, COCOA PROCESSED WITH ALKALI, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR, MILK"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, POWDERED SUGAR, SUGAR, CORN STARCH, EGG YOLKS, COCONUT OIL, COFFEE, COCOA PROCESSED WITH ALKALI, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR, MILK",
+    "price": 80
   },
   {
     "key": "24_hd",
@@ -197,7 +221,8 @@
     "description": "The rich complexity of our classic coffee ice cream paired with silky vanilla ice cream and an indulgent Belgian chocolate crunch.",
     "rating": 4.4,
     "rating_count": 48,
-    "ingredients": "VANILLA ICE CREAM, CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, VANILLA EXTRACT, COFFEE ICE CREAM, CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, COFFEE, SUGAR, COCONUT OIL, WHOLE MILK POWDER, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT"
+    "ingredients": "VANILLA ICE CREAM, CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, VANILLA EXTRACT, COFFEE ICE CREAM, CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, COFFEE, SUGAR, COCONUT OIL, WHOLE MILK POWDER, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT",
+    "price": 90
   },
   {
     "key": "25_hd",
@@ -205,7 +230,8 @@
     "description": "Introducing new HEAVEN Cold Brew Espresso Chip light ice cream. Take a break with this rich and flavorful coffee light ice cream with a burst of chocolate espresso chips.",
     "rating": 4.5,
     "rating_count": 18,
-    "ingredients": "SKIM MILK, CREAM, CANE SUGAR, CHOCOLATE, CANE SUGAR, COCOA BUTTER, MILKFAT, SOY LECITHIN, VANILLA EXTRACT, EGG YOLKS, COCONUT OIL, COFFEE, VITAMIN A PALMITATE"
+    "ingredients": "SKIM MILK, CREAM, CANE SUGAR, CHOCOLATE, CANE SUGAR, COCOA BUTTER, MILKFAT, SOY LECITHIN, VANILLA EXTRACT, EGG YOLKS, COCONUT OIL, COFFEE, VITAMIN A PALMITATE",
+    "price": 90
   },
   {
     "key": "26_hd",
@@ -213,7 +239,8 @@
     "description": "Pieces of rich, chocolaty cookies are dunked in delicious, creamy vanilla ice cream to satisfy the milk-and-cookies kid in all of us.",
     "rating": 4.6,
     "rating_count": 23,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, WHEAT FLOUR, VANILLA EXTRACT, COCOA PROCESSED WITH ALKALI, COCONUT OIL, BAKING SODA, CHOCOLATE, SALT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, WHEAT FLOUR, VANILLA EXTRACT, COCOA PROCESSED WITH ALKALI, COCONUT OIL, BAKING SODA, CHOCOLATE, SALT",
+    "price": 60
   },
   {
     "key": "27_hd",
@@ -221,7 +248,8 @@
     "description": "Your favorite Belgian chocolate ice cream, renamed. Our Belgian chocolate combines rich, velvety chocolate ice cream with finely shaved Belgian chocolate for a uniquely textured experience.",
     "rating": 4.8,
     "rating_count": 158,
-    "ingredients": "CHOCOLATE ICE CREAM: CREAM, SKIM MILK, DARK CHOCOLATE (BELGIAN CHOCOLATE, SUGAR, COCOA BUTTER, SOY LECITHIN, VANILLA), SUGAR, EGG YOLKS, COCOA PROCESSED WITH ALKALI, VANILLA EXTRACT. CHOCOLATE CHUNKS WITH VEGETABLE OIL: BELGIAN CHOCOLATE (SUGAR, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, NATURAL FLAVOR), COTTONSEED OIL, COCONUT OIL. CONTAINS: MILK, EGG AND SOY INGREDIENTS"
+    "ingredients": "CHOCOLATE ICE CREAM: CREAM, SKIM MILK, DARK CHOCOLATE (BELGIAN CHOCOLATE, SUGAR, COCOA BUTTER, SOY LECITHIN, VANILLA), SUGAR, EGG YOLKS, COCOA PROCESSED WITH ALKALI, VANILLA EXTRACT. CHOCOLATE CHUNKS WITH VEGETABLE OIL: BELGIAN CHOCOLATE (SUGAR, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, NATURAL FLAVOR), COTTONSEED OIL, COCONUT OIL. CONTAINS: MILK, EGG AND SOY INGREDIENTS",
+    "price": 80
   },
   {
     "key": "28_hd",
@@ -229,7 +257,8 @@
     "description": "A rich dark chocolate cookie topped with dulce de leche ice cream and swirls of luscious caramel coated in a milk chocolate shell with a drizzle of dark chocolate.",
     "rating": 3.9,
     "rating_count": 35,
-    "ingredients": "ULCE DE LECHE ICE CREAM: CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK (MILK,SUGAR), EGG YOLKS, CORN SYRUP, BAKING SODA, SALT, VANILLA EXTRACT. MILK CHOCOLATE AND VEGETABLE OIL COATING: MILK CHOCOLATE (SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT), COCONUT OIL. CHOCOLATE COOKIE: BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, COCOA PROCESSED WITH ALKALI, CORN SYRUP, MOLASSES, BAKING SODA, SALT, SOY LECITHIN. CARAMEL SWIRL: SWEETENED CONDENSED MILK (MILK, SUGAR), SUGAR, WATER, CORN SYRUP, COCONUT OIL, PECTIN, SOY LECITHIN, SALT, BAKING SODA, VANILLA EXTRACT. DARK CHOCOLATE DRIZZLE WITH VEGETABLE OIL: DARK CHOCOLATE (SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT), COCONUT OIL, SOYBEAN OIL"
+    "ingredients": "ULCE DE LECHE ICE CREAM: CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK (MILK,SUGAR), EGG YOLKS, CORN SYRUP, BAKING SODA, SALT, VANILLA EXTRACT. MILK CHOCOLATE AND VEGETABLE OIL COATING: MILK CHOCOLATE (SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT), COCONUT OIL. CHOCOLATE COOKIE: BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, COCOA PROCESSED WITH ALKALI, CORN SYRUP, MOLASSES, BAKING SODA, SALT, SOY LECITHIN. CARAMEL SWIRL: SWEETENED CONDENSED MILK (MILK, SUGAR), SUGAR, WATER, CORN SYRUP, COCONUT OIL, PECTIN, SOY LECITHIN, SALT, BAKING SODA, VANILLA EXTRACT. DARK CHOCOLATE DRIZZLE WITH VEGETABLE OIL: DARK CHOCOLATE (SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT), COCONUT OIL, SOYBEAN OIL",
+    "price": 80
   },
   {
     "key": "29_hd",
@@ -237,7 +266,8 @@
     "description": "Inspired by Latin America's treasured dessert, our dulce de leche ice cream is a delicious combination of caramel and sweet cream, swirled with ribbons of golden caramel.",
     "rating": 4.8,
     "rating_count": 209,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, EGG YOLKS, CORN SYRUP, COCONUT OIL, PECTIN, SOY LECITHIN, SALT, BAKING SODA, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, EGG YOLKS, CORN SYRUP, COCONUT OIL, PECTIN, SOY LECITHIN, SALT, BAKING SODA, VANILLA EXTRACT",
+    "price": 60
   },
   {
     "key": "30_hd",
@@ -245,7 +275,8 @@
     "description": "We make our green tea ice cream from a highly sought-after Japanese matcha green tea, a ceremonial tea prized for its intense yet delicate essence. enjoy its soothing flavor enhanced with the richness of pure, sweet cream.",
     "rating": 4.2,
     "rating_count": 109,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, GREEN TEA"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, GREEN TEA",
+    "price": 60
   },
   {
     "key": "31_hd",
@@ -253,7 +284,8 @@
     "description": "This decadent blend of honey ice cream, swirls of salted caramel, and crunchy toasted almonds was lovingly crafted to raise awareness for the honeybees and other pollinators who bring us so many of our favorite ingredients.",
     "rating": 5,
     "rating_count": 103,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CORN SYRUP, EGG YOLKS, HONEY, BUTTER, CREAM, SALT, SALT, SAFFLOWER OIL, VANILLA EXTRACT, PECTIN, BAKING SODA"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CORN SYRUP, EGG YOLKS, HONEY, BUTTER, CREAM, SALT, SALT, SAFFLOWER OIL, VANILLA EXTRACT, PECTIN, BAKING SODA",
+    "price": 90
   },
   {
     "key": "32_hd",
@@ -261,7 +293,8 @@
     "description": "A rich chocolate cookie topped with ice cream that’s infused with Irish Cream before the entire square is dipped in decadent dark chocolate.",
     "rating": 4.9,
     "rating_count": 14,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, COFFEE, BOURBON, COCOA, SALT, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, CORN SYRUP, COCOA PROCESSED WITH ALKALI, MOLASSES, BAKING SODA, SALT, SUGAR, CORN STARCH, SUNFLOWER OIL, COCOA, SALT, SUGAR, COCOA BUTTER, SKIM MILK, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, COFFEE, BOURBON, COCOA, SALT, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, CORN SYRUP, COCOA PROCESSED WITH ALKALI, MOLASSES, BAKING SODA, SALT, SUGAR, CORN STARCH, SUNFLOWER OIL, COCOA, SALT, SUGAR, COCOA BUTTER, SKIM MILK, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL",
+    "price": 80
   },
   {
     "key": "33_hd",
@@ -269,7 +302,8 @@
     "description": "Irish Cream infused into our ice cream with rich chocolate brownie pieces and a decadent fudge swirl.",
     "rating": 4.3,
     "rating_count": 85,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, POWDERED SUGAR, SUGAR, CORN STARCH, EGG YOLKS, SUNFLOWER OIL, COCOA, WHEAT FLOUR, COCOA PROCESSED WITH ALKALI, SOYBEAN OIL, COFFEE, CORN STARCH, EGGS, SALT, NATURAL FLAVORS, SUNFLOWER LECITHIN, BAKING SODA"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, POWDERED SUGAR, SUGAR, CORN STARCH, EGG YOLKS, SUNFLOWER OIL, COCOA, WHEAT FLOUR, COCOA PROCESSED WITH ALKALI, SOYBEAN OIL, COFFEE, CORN STARCH, EGGS, SALT, NATURAL FLAVORS, SUNFLOWER LECITHIN, BAKING SODA",
+    "price": 70
   },
   {
     "key": "34_hd",
@@ -277,7 +311,8 @@
     "description": "Juicy, sun-ripened lemons create a tart yet sweet fruit sorbet. An indulgent treat with a delicate flavor that dazzles your tongue and refreshes your senses.",
     "rating": 4.8,
     "rating_count": 17,
-    "ingredients": "WATER, SUGAR, CORN SYRUP, LEMON JUICE CONCENTRATE, PECTIN, NATURAL FLAVOR, CITRIC ACID"
+    "ingredients": "WATER, SUGAR, CORN SYRUP, LEMON JUICE CONCENTRATE, PECTIN, NATURAL FLAVOR, CITRIC ACID",
+    "price": 90
   },
   {
     "key": "35_hd",
@@ -285,7 +320,8 @@
     "description": "Our Lemon Raspberry White Chocolate TRIO Crispy Layers weaves lemon and raspberry ice creams between perfectly crispy white chocolate and sweet raspberry sauce for a uniquely tantilizing treat.",
     "rating": 4.3,
     "rating_count": 51,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, RASPBERRY PUREE, EGG YOLKS, LEMON JUICE CONCENTRATE, NATURAL FLAVOR, CREAM, SKIM MILK, SUGAR, EGG YOLKS, CORN SYRUP, LEMON JUICE CONCENTRATE, SUGAR, COCOA BUTTER, NONFAT DRY MILK, COCONUT OIL, SKIM MILK, SOY LECITHIN, RASPBERRY PUREE, SUGAR, WATER, LEMON JUICE CONCENTRATE, PECTIN, NATURAL FLAVOR"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, RASPBERRY PUREE, EGG YOLKS, LEMON JUICE CONCENTRATE, NATURAL FLAVOR, CREAM, SKIM MILK, SUGAR, EGG YOLKS, CORN SYRUP, LEMON JUICE CONCENTRATE, SUGAR, COCOA BUTTER, NONFAT DRY MILK, COCONUT OIL, SKIM MILK, SOY LECITHIN, RASPBERRY PUREE, SUGAR, WATER, LEMON JUICE CONCENTRATE, PECTIN, NATURAL FLAVOR",
+    "price": 70
   },
   {
     "key": "36_hd",
@@ -293,7 +329,8 @@
     "description": "Our ode to the tropical flavors of South America combines sweet mango ice cream and slices of juicy mango for a simply perfect treat.",
     "rating": 4.8,
     "rating_count": 44,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, MANGO PUREE, MANGO, CORN SYRUP, EGG YOLKS, PECTIN, ORANGE JUICE CONCENTRATE, NATURAL FLAVOR, LEMON JUICE CONCENTRATE"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, MANGO PUREE, MANGO, CORN SYRUP, EGG YOLKS, PECTIN, ORANGE JUICE CONCENTRATE, NATURAL FLAVOR, LEMON JUICE CONCENTRATE",
+    "price": 70
   },
   {
     "key": "37_hd",
@@ -301,7 +338,8 @@
     "description": "We blended juicy, tropical mangos into a smooth puree to create a refreshing treat with sweet fruit intensity.",
     "rating": 4.6,
     "rating_count": 20,
-    "ingredients": "WATER, SUGAR, MANGO PUREE, NATURAL FLAVOR, CARROT JUICE CONCENTRATE, LEMON JUICE CONCENTRATE, PUMPKIN JUICE CONCENTRATE, PECTIN"
+    "ingredients": "WATER, SUGAR, MANGO PUREE, NATURAL FLAVOR, CARROT JUICE CONCENTRATE, LEMON JUICE CONCENTRATE, PUMPKIN JUICE CONCENTRATE, PECTIN",
+    "price": 60
   },
   {
     "key": "38_hd",
@@ -309,7 +347,8 @@
     "description": "We infuse mint essence into a smooth, creamy base and add rich chocolaty chips for the perfect finish to this refreshingly cool treat.",
     "rating": 3.4,
     "rating_count": 35,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, COCONUT OIL, COCOA POWDER, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR, SALT, MILK"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, COCONUT OIL, COCOA POWDER, BUTTER OIL, SOY LECITHIN, NATURAL FLAVOR, SALT, MILK",
+    "price": 100
   },
   {
     "key": "39_hd",
@@ -317,7 +356,8 @@
     "description": "A chocolate cookie topped with our delicious peanut butter ice cream swirled with more creamy peanut butter, then dipped in milk chocolate and drizzled with a dark chocolate.",
     "rating": 4.4,
     "rating_count": 14,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, PEANUTS, EGG YOLKS, PEANUT OIL, COCONUT OIL, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, CORN SYRUP, COCOA PROCESSED WITH ALKALI, MOLASSES, BAKING SODA, SALT, PEANUTS, SUGAR, PEANUT OIL, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, SOYBEAN OIL"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, PEANUTS, EGG YOLKS, PEANUT OIL, COCONUT OIL, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, CORN SYRUP, COCOA PROCESSED WITH ALKALI, MOLASSES, BAKING SODA, SALT, PEANUTS, SUGAR, PEANUT OIL, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, SOYBEAN OIL",
+    "price": 70
   },
   {
     "key": "40_hd",
@@ -325,7 +365,8 @@
     "description": "Introducing new HEAVEN Peanut Butter Chip light ice cream. Satisfy your sweet tooth with vanilla light ice cream, a swirl of creamy peanut butter, and the satisfying crunch of chocolate chips.",
     "rating": 2.7,
     "rating_count": 25,
-    "ingredients": "SKIM MILK, CREAM, CANE SUGAR, PEANUTS, EGG YOLKS, CHOCOLATE, COCOA BUTTER, PEANUT OIL, VANILLA EXTRACT, SALT, VITAMIN A PALMITATE"
+    "ingredients": "SKIM MILK, CREAM, CANE SUGAR, PEANUTS, EGG YOLKS, CHOCOLATE, COCOA BUTTER, PEANUT OIL, VANILLA EXTRACT, SALT, VITAMIN A PALMITATE",
+    "price": 80
   },
   {
     "key": "41_hd",
@@ -333,7 +374,8 @@
     "description": "Instead of distracting dairy substitutes, we mix the creamiest peanut butter with ribbons of rich chocolate fudge and crunchy peanuts. It's the ultimate indulgence that just happens to be non-dairy and vegan.",
     "rating": 4.6,
     "rating_count": 24,
-    "ingredients": "WATER, CORN SYRUP, SUGAR, PEANUTS, POWDERED SUGAR, SUGAR, CORN STARCH, SUNFLOWER OIL, COCOA, PEANUT OIL, COCONUT OIL, PECTIN, SALT, SUNFLOWER LECITHIN"
+    "ingredients": "WATER, CORN SYRUP, SUGAR, PEANUTS, POWDERED SUGAR, SUGAR, CORN STARCH, SUNFLOWER OIL, COCOA, PEANUT OIL, COCONUT OIL, PECTIN, SALT, SUNFLOWER LECITHIN",
+    "price": 70
   },
   {
     "key": "42_hd",
@@ -341,7 +383,8 @@
     "description": "Smooth peanut butter is swirled with decadent chocolate fudge then coated in crisp dark chocolate and a dark chocolate drizzle for a playfully pure non-dairy and vegan indulgence.",
     "rating": 4.8,
     "rating_count": 32,
-    "ingredients": "PEANUT BUTTER FROZEN DESSERT: WATER, CORN SYRUP, SUGAR, PEANUTS, PEANUT OIL, COCONUT OIL, PECTIN, SALT. DARK CHOCOLATE AND VEGETABLE OIL COATING: DARK CHOCOLATE (SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT), COCONUT OIL, SOYBEAN OIL. SALTED FUDGE SWIRL: POWDERED CANE SUGAR (CANE SUGAR, CORN STARCH), SUNFLOWER OIL, COCOA, SALT, SUNFLOWER LECITHIN"
+    "ingredients": "PEANUT BUTTER FROZEN DESSERT: WATER, CORN SYRUP, SUGAR, PEANUTS, PEANUT OIL, COCONUT OIL, PECTIN, SALT. DARK CHOCOLATE AND VEGETABLE OIL COATING: DARK CHOCOLATE (SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT), COCONUT OIL, SOYBEAN OIL. SALTED FUDGE SWIRL: POWDERED CANE SUGAR (CANE SUGAR, CORN STARCH), SUNFLOWER OIL, COCOA, SALT, SUNFLOWER LECITHIN",
+    "price": 70
   },
   {
     "key": "43_hd",
@@ -349,7 +392,8 @@
     "description": "Celebrate the season with our rendition of this holiday classic. Rich white chocolate ice cream is blended with crunchy chocolaty peppermint bark and peppermint candy pieces.",
     "rating": 5,
     "rating_count": 31,
-    "ingredients": "WHITE CHOCOLATE ICE CREAM (CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, NATURAL FLAVOR, COCOA BUTTER), PEPPERMINT BARK PIECES (SUGAR, COCONUT OIL, COCOA PROCESSED WITH ALKALI, NONFAT DRY MILK, BUTTERFAT, COCOA, SOY LECITHIN, NATURAL FLAVOR, SALT, CORN SYRUP, VEGETABLE JUICE (FOR COLOR), PEPPERMINT OIL), PEPPERMINT TWISTS CANDY (SUGAR, CORN SYRUP, PALM KERNEL OIL, VEGETABLE JUICE (FOR COLOR), PEPPERMINT OIL, SOY LECITHIN)"
+    "ingredients": "WHITE CHOCOLATE ICE CREAM (CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, NATURAL FLAVOR, COCOA BUTTER), PEPPERMINT BARK PIECES (SUGAR, COCONUT OIL, COCOA PROCESSED WITH ALKALI, NONFAT DRY MILK, BUTTERFAT, COCOA, SOY LECITHIN, NATURAL FLAVOR, SALT, CORN SYRUP, VEGETABLE JUICE (FOR COLOR), PEPPERMINT OIL), PEPPERMINT TWISTS CANDY (SUGAR, CORN SYRUP, PALM KERNEL OIL, VEGETABLE JUICE (FOR COLOR), PEPPERMINT OIL, SOY LECITHIN)",
+    "price": 90
   },
   {
     "key": "44_hd",
@@ -357,7 +401,8 @@
     "description": "Our peppermint bark ice cream bars start with decadent white chocolate ice cream, dipped in thick, dark chocolate, then speckled with cool peppermint candy pieces.",
     "rating": 5,
     "rating_count": 8,
-    "ingredients": "WHITE CHOCOLATE ICE CREAM: CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, NATURAL FLAVOR, COCOA BUTTER. DARK CHOCOLATE AND VEGETABLE OIL COATING WITH PEPPERMINT CANDY PIECES: DARK CHOCOLATE (SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT), PEPPERMINT CANDY PIECES: (SUGAR, CORN SYRUP, COCONUT OIL, NATURAL FLAVOR, SOY LECITHIN), COCONUT OIL, SOYBEAN OIL"
+    "ingredients": "WHITE CHOCOLATE ICE CREAM: CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, NATURAL FLAVOR, COCOA BUTTER. DARK CHOCOLATE AND VEGETABLE OIL COATING WITH PEPPERMINT CANDY PIECES: DARK CHOCOLATE (SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT), PEPPERMINT CANDY PIECES: (SUGAR, CORN SYRUP, COCONUT OIL, NATURAL FLAVOR, SOY LECITHIN), COCONUT OIL, SOYBEAN OIL",
+    "price": 50
   },
   {
     "key": "45_hd",
@@ -365,7 +410,8 @@
     "description": "Let us take you on a voyage to a tropical island where exotic fruits ripen in the golden sun. We combine pure, sweet cream, tropical pineapple, and delectable coconut flavor for a truly indulgent ice cream experience.",
     "rating": 4.5,
     "rating_count": 105,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, PINEAPPLE, EGG YOLKS, NATURAL FLAVOR, RUM, SALT"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, PINEAPPLE, EGG YOLKS, NATURAL FLAVOR, RUM, SALT",
+    "price": 90
   },
   {
     "key": "46_hd",
@@ -373,7 +419,8 @@
     "description": "Its exotic flavor is the hallmark of this remarkable dessert. roasted pistachio nuts gently mixed with pure sweet cream brings out the best in this pairing.",
     "rating": 3.8,
     "rating_count": 64,
-    "ingredients": "WEET CREAM ICE CREAM: CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, SALT. ROASTED PISTACHIOS: PISTACHIOS, SAFFLOWER OIL"
+    "ingredients": "WEET CREAM ICE CREAM: CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, SALT. ROASTED PISTACHIOS: PISTACHIOS, SAFFLOWER OIL",
+    "price": 90
   },
   {
     "key": "47_hd",
@@ -381,7 +428,8 @@
     "description": "We blended delicious, ripe raspberries into a smooth puree for this tangy yet sweet fruit sorbet. It's refreshing and smooth with a sweet flavor intensity.",
     "rating": 4.5,
     "rating_count": 14,
-    "ingredients": "WATER, SUGAR, RASPBERRY PUREE, CORN SYRUP, PECTIN, LEMON JUICE CONCENTRATE"
+    "ingredients": "WATER, SUGAR, RASPBERRY PUREE, CORN SYRUP, PECTIN, LEMON JUICE CONCENTRATE",
+    "price": 100
   },
   {
     "key": "48_hd",
@@ -389,7 +437,8 @@
     "description": "Velvety swirls of marshmallow, roasted almonds, and our legendary chocolate ice cream come together in this playful ice cream delight.",
     "rating": 4.6,
     "rating_count": 29,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, COCOA PROCESSED WITH ALKALI, EGG YOLKS, CORN STARCH, SAFFLOWER OIL, EGG WHITES, CREAM OF TARTAR, SALT, PECTIN, NATURAL FLAVOR"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, COCOA PROCESSED WITH ALKALI, EGG YOLKS, CORN STARCH, SAFFLOWER OIL, EGG WHITES, CREAM OF TARTAR, SALT, PECTIN, NATURAL FLAVOR",
+    "price": 100
   },
   {
     "key": "49_hd",
@@ -397,7 +446,8 @@
     "description": "Indulge in this new wine infused sweet cream ice cream folded together with a refreshingly tart Rosé flavored swirl.\n*Contains Less Than 0.5% Alcohol by Volume",
     "rating": 4.4,
     "rating_count": 23,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, GRAPE JUICE CONCENTRATE, NATURAL FLAVOR, CITRIC ACID, WINE, SALT, PECTIN"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, GRAPE JUICE CONCENTRATE, NATURAL FLAVOR, CITRIC ACID, WINE, SALT, PECTIN",
+    "price": 60
   },
   {
     "key": "50_hd",
@@ -405,7 +455,8 @@
     "description": "Indulge in the decadent crunch of a ruby cacao shell and our creamy sweet cream ice cream, for a sensorial experience of luscious smoothness with berry fruity notes.",
     "rating": 3.5,
     "rating_count": 31,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, COCOA BUTTER, WHOLE MILK POWDER, EGG YOLKS, CHOCOLATE, MILKFAT, CITRIC ACID, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, COCOA BUTTER, WHOLE MILK POWDER, EGG YOLKS, CHOCOLATE, MILKFAT, CITRIC ACID, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS",
+    "price": 80
   },
   {
     "key": "51_hd",
@@ -413,7 +464,8 @@
     "description": "Crispy and rich ruby cacao layers complement our smooth pistachio and sweet cream ice cream in this sensorial delight.",
     "rating": 4,
     "rating_count": 46,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, COCOA BUTTER, WHOLE MILK POWDER, PISTACHIO PASTE, CHOCOLATE, MILKFAT, NATURAL FLAVOR, SOY LECITHIN, CITRIC ACID, VEGETABLE JUICE CONCENTRATE COLOR.\nCONTAINS: MILK, EGG, PISTACHIOS AND SOY INGREDIENTS"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, CORN SYRUP, EGG YOLKS, COCOA BUTTER, WHOLE MILK POWDER, PISTACHIO PASTE, CHOCOLATE, MILKFAT, NATURAL FLAVOR, SOY LECITHIN, CITRIC ACID, VEGETABLE JUICE CONCENTRATE COLOR.\nCONTAINS: MILK, EGG, PISTACHIOS AND SOY INGREDIENTS",
+    "price": 90
   },
   {
     "key": "52_hd",
@@ -421,7 +473,8 @@
     "description": "We soak plump raisins in rum and add pure, sweet cream for a rich, flavorful experience infused with just the right hint of warmth.",
     "rating": 3.5,
     "rating_count": 129,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, RAISINS, EGG YOLKS, RUM"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, RAISINS, EGG YOLKS, RUM",
+    "price": 90
   },
   {
     "key": "53_hd",
@@ -429,7 +482,8 @@
     "description": "A Latin American inspired indulgence, we infuse smooth white Rum into our ice cream then add thick ribbons of dulce de leche and chunks of sweet Tres Leches cake.",
     "rating": 4,
     "rating_count": 97,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, EGG YOLKS, CORN SYRUP, WHEAT FLOUR, PALM OIL, RUM, EGGS, COCONUT OIL, PECTIN, SOY LECITHIN, EVAPORATED MILK, SALT, SOYBEAN OIL, BAKING SODA, NATURAL FLAVORS, POWDERED SUGAR, SUGAR, CORN STARCH"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, EGG YOLKS, CORN SYRUP, WHEAT FLOUR, PALM OIL, RUM, EGGS, COCONUT OIL, PECTIN, SOY LECITHIN, EVAPORATED MILK, SALT, SOYBEAN OIL, BAKING SODA, NATURAL FLAVORS, POWDERED SUGAR, SUGAR, CORN STARCH",
+    "price": 80
   },
   {
     "key": "54_hd",
@@ -437,7 +491,8 @@
     "description": "Journey through layers of lightly salted caramel ice cream and irresistible chocolate ice cream stacked between crisp Belgian chocolate for an unmistakably sophisticated sweetness.",
     "rating": 3.4,
     "rating_count": 55,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, COCOA PROCESSED WITH ALKALI, CREAM, SKIM MILK, CANE SUGAR, SWEETENED CONDENSED MILK, MILK, CANE SUGAR, CORN SYRUP, EGG YOLKS, CARAMELIZED SUGAR, CANE SUGAR, WATER, SEA SALT, BAKING SODA, SOY LECITHIN, VANILLA EXTRACT, SUGAR, COCONUT OIL, WHOLE MILK POWDER, COCOA BUTTER, SOY LECITHIN"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, COCOA PROCESSED WITH ALKALI, CREAM, SKIM MILK, CANE SUGAR, SWEETENED CONDENSED MILK, MILK, CANE SUGAR, CORN SYRUP, EGG YOLKS, CARAMELIZED SUGAR, CANE SUGAR, WATER, SEA SALT, BAKING SODA, SOY LECITHIN, VANILLA EXTRACT, SUGAR, COCONUT OIL, WHOLE MILK POWDER, COCOA BUTTER, SOY LECITHIN",
+    "price": 70
   },
   {
     "key": "55_hd",
@@ -445,7 +500,8 @@
     "description": "We introduce sweet summer strawberries to pure cream and other natural ingredients. Because it's brimming with real fruit, the true flavor of our strawberries comes shining through.",
     "rating": 4.8,
     "rating_count": 108,
-    "ingredients": "CREAM, SKIM MILK, STRAWBERRIES, CANE SUGAR, EGG YOLKS"
+    "ingredients": "CREAM, SKIM MILK, STRAWBERRIES, CANE SUGAR, EGG YOLKS",
+    "price": 90
   },
   {
     "key": "56_hd",
@@ -453,7 +509,8 @@
     "description": "Introducing new HEAVEN Strawberry Waffle Cone light ice cream. Delight in the sweet taste of strawberry light ice cream dappled with crunchy pieces of chocolate-covered waffle cone.",
     "rating": 4.2,
     "rating_count": 18,
-    "ingredients": "CANE SUGAR, SKIM MILK, STRAWBERRIES, CREAM, CHOCOLATY COATED CONE PIECES, COCONUT OIL, CANE SUGAR, WAFFLE CONE PIECES, WHEAT FLOUR, CANE SUGAR, SOYBEAN OIL, SOY LECITHIN, NATURAL FLAVOR, SALT, COCOA PROCESSED WITH ALKALI, VANILLA EXTRACT, EGG YOLKS, PECTIN, VITAMIN A PALMITATE"
+    "ingredients": "CANE SUGAR, SKIM MILK, STRAWBERRIES, CREAM, CHOCOLATY COATED CONE PIECES, COCONUT OIL, CANE SUGAR, WAFFLE CONE PIECES, WHEAT FLOUR, CANE SUGAR, SOYBEAN OIL, SOY LECITHIN, NATURAL FLAVOR, SALT, COCOA PROCESSED WITH ALKALI, VANILLA EXTRACT, EGG YOLKS, PECTIN, VITAMIN A PALMITATE",
+    "price": 60
   },
   {
     "key": "57_hd",
@@ -461,7 +518,8 @@
     "description": "Velvety white chocolate ice cream complemented by smooth milk chocolate ice cream with the delightful crunch of crispy Belgian chocolate layers. At last, the joy of chocolate without having to choose.",
     "rating": 3.9,
     "rating_count": 52,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, COCOA BUTTER, CREAM, SKIM MILK, CANE SUGAR, COCOA PROCESSED WITH ALKALI, SUGAR, COCONUT OIL, SOY LECITHIN, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, COCOA BUTTER, CREAM, SKIM MILK, CANE SUGAR, COCOA PROCESSED WITH ALKALI, SUGAR, COCONUT OIL, SOY LECITHIN, VANILLA EXTRACT",
+    "price": 70
   },
   {
     "key": "58_hd",
@@ -469,7 +527,8 @@
     "description": "A dark chocolate cookie gets even more decadent when it's topped with our signature vanilla ice cream then dipped in a dark chocolate shell and a milk chocolate drizzle.",
     "rating": 4.3,
     "rating_count": 32,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, COCOA PROCESSED WITH ALKALI, CORN SYRUP, MOLASSES, BAKING SODA, SALT, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, BLEACHED WHEAT FLOUR, SUGAR, PALM OIL, COCOA PROCESSED WITH ALKALI, CORN SYRUP, MOLASSES, BAKING SODA, SALT, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT",
+    "price": 90
   },
   {
     "key": "59_hd",
@@ -477,7 +536,8 @@
     "description": "Vanilla is the essence of elegance and sophistication. This marriage of pure, sweet cream and Madagascar vanilla creates the sweet scent of exotic spice and a distinctive taste that lingers on your tongue.",
     "rating": 3,
     "rating_count": 228,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, VANILLA EXTRACT",
+    "price": 60
   },
   {
     "key": "60_hd",
@@ -485,7 +545,8 @@
     "description": "Introducing Soft Dipped Ice Cream Bars, a luscious combination of creamy vanilla ice cream covered in a soft chocolate truffle coating - the ultimate luxurious taste sensation.",
     "rating": 4.4,
     "rating_count": 13,
-    "ingredients": "VANILLA ICE CREAM: CREAM, SKIM MILK, SUGAR, EGG YOLKS, VANILLA EXTRACT. CHOCOLATY COATING: SUGAR, COCOA PROCESSED WITH ALKALI, CANOLA OIL, PALM OIL, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS"
+    "ingredients": "VANILLA ICE CREAM: CREAM, SKIM MILK, SUGAR, EGG YOLKS, VANILLA EXTRACT. CHOCOLATY COATING: SUGAR, COCOA PROCESSED WITH ALKALI, CANOLA OIL, PALM OIL, SOY LECITHIN.\nCONTAINS: MILK, EGG AND SOY INGREDIENTS",
+    "price": 60
   },
   {
     "key": "61_hd",
@@ -493,7 +554,8 @@
     "description": "a unique twist to our iconic flavor. our ice cream blends Madagascar vanilla and pure, sweet cream with flecks of real vanilla beans, for a spicy and sweet delight.",
     "rating": 4.5,
     "rating_count": 115,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, GROUND VANILLA BEANS, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, GROUND VANILLA BEANS, VANILLA EXTRACT",
+    "price": 70
   },
   {
     "key": "62_hd",
@@ -501,7 +563,8 @@
     "description": "It begins with the classic taste of pure vanilla ice cream then, one layer of crispy Belgian chocolate later, becomes the vine-ripened intensity of blackberry ice cream.",
     "rating": 4.3,
     "rating_count": 74,
-    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, SUGAR, COCONUT OIL, SOY LECITHIN"
+    "ingredients": "CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, CREAM, SKIM MILK, CANE SUGAR, EGG YOLKS, NATURAL FLAVOR, LEMON JUICE CONCENTRATE, SUGAR, COCONUT OIL, SOY LECITHIN",
+    "price": 50
   },
   {
     "key": "63_hd",
@@ -509,7 +572,8 @@
     "description": "This incredible combination of tastes and textures combines layers of vanilla and caramel ice cream with crunchy white chocolate and sweet caramel sauce.",
     "rating": 5,
     "rating_count": 32,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CORN SYRUP, EGG YOLKS, CARAMELIZED SUGAR, SUGAR, WATER, SEA SALT, BAKING SODA, SOY LECITHIN, VANILLA EXTRACT, CREAM, SKIM MILK, SUGAR, EGG YOLKS, SUGAR, COCOA BUTTER, NONFAT DRY MILK, COCONUT OIL, SKIM MILK, SOY LECITHIN, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CREAM, SUGAR, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, SOY LECITHIN"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CORN SYRUP, EGG YOLKS, CARAMELIZED SUGAR, SUGAR, WATER, SEA SALT, BAKING SODA, SOY LECITHIN, VANILLA EXTRACT, CREAM, SKIM MILK, SUGAR, EGG YOLKS, SUGAR, COCOA BUTTER, NONFAT DRY MILK, COCONUT OIL, SKIM MILK, SOY LECITHIN, CORN SYRUP, SWEETENED CONDENSED MILK, CONDENSED MILK, SUGAR, CREAM, SUGAR, WATER, BUTTER, CREAM, SALT, SALT, PECTIN, SOY LECITHIN",
+    "price": 60
   },
   {
     "key": "64_hd",
@@ -517,7 +581,8 @@
     "description": "Our delectable chocolate chips are swirled with our creamy, smooth vanilla ice cream, allowing two flavor titans to come together in this classically indulgent treat.",
     "rating": 4.5,
     "rating_count": 46,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CHOCOLATE, CORN SYRUP, EGG YOLKS, COCOA BUTTER, SALT, VANILLA EXTRACT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CHOCOLATE, CORN SYRUP, EGG YOLKS, COCOA BUTTER, SALT, VANILLA EXTRACT",
+    "price": 50
   },
   {
     "key": "65_hd",
@@ -525,7 +590,8 @@
     "description": "Pure, sweet vanilla blends with sweet cream to make our incredibly smooth vanilla ice cream. Dipped in a milk chocolate coating and drizzled with fine milk chocolate, it's so thick and delicious you'll find it impossible to resist.",
     "rating": 4.6,
     "rating_count": 76,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, VANILLA EXTRACT, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, VANILLA EXTRACT, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL",
+    "price": 70
   },
   {
     "key": "66_hd",
@@ -533,7 +599,8 @@
     "description": "We start with pure, sweet vanilla and blend it with sweet, fresh cream to make our incredibly smooth vanilla ice cream. Then we dip it in a crunchy roasted almond and milk chocolate coating.",
     "rating": 2.5,
     "rating_count": 224,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, ALMONDS ROASTED IN VEGETABLE OIL, SAFFLOWER OIL, COCONUT OIL"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, ALMONDS ROASTED IN VEGETABLE OIL, SAFFLOWER OIL, COCONUT OIL",
+    "price": 50
   },
   {
     "key": "67_hd",
@@ -541,7 +608,8 @@
     "description": "An almond lover's delight. Our dry-roasted almonds are lightly coated with sweet chocolate and combined with our distinctive vanilla ice cream. Simple yet perfect.",
     "rating": 4.3,
     "rating_count": 129,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, CHOCOLATE, COCOA BUTTER, SALT"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, LACTOSE REDUCED SKIM MILK, CORN SYRUP, EGG YOLKS, CHOCOLATE, COCOA BUTTER, SALT",
+    "price": 70
   },
   {
     "key": "68_hd",
@@ -549,7 +617,8 @@
     "description": "This new spiked latte inspired treat is a delicious whiskey infused coffee ice cream blended with ribbons of hazelnut fudge and chocolate espresso flakes.\n*Contains Less Than 0.5% Alcohol by Volume",
     "rating": 4.5,
     "rating_count": 11,
-    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, BROWN SUGAR, COFFEE, MOLASSES, NATURAL FLAVOR, CORN STARCH, POWDERED SUGAR, SOYBEAN OIL, COCOA PROCESSED WITH ALKALI, COCOA BUTTER, SOY LECITHIN, CHOCOLATE, CANE SUGAR, CHOCOLATE, COCOA BUTTER, MILKFAT, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, COFFEE"
+    "ingredients": "CREAM, SKIM MILK, SUGAR, EGG YOLKS, BROWN SUGAR, COFFEE, MOLASSES, NATURAL FLAVOR, CORN STARCH, POWDERED SUGAR, SOYBEAN OIL, COCOA PROCESSED WITH ALKALI, COCOA BUTTER, SOY LECITHIN, CHOCOLATE, CANE SUGAR, CHOCOLATE, COCOA BUTTER, MILKFAT, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, COFFEE",
+    "price": 100
   },
   {
     "key": "69_hd",
@@ -557,6 +626,7 @@
     "description": "Inspired by a familiar favorite, this bar of smooth white chocolate ice cream with swirls of tart raspberry is dipped in milk chocolate and then sprinkled with dark chocolate. Perfect for getting carried away.",
     "rating": 3.9,
     "rating_count": 11,
-    "ingredients": "WHITE CHOCOLATE ICE CREAM, CREAM, SKIM MILK, SUGAR, EGG YOLKS, COCOA BUTTER, NATURAL FLAVOR, MILK CHOCOLATE AND VEGETABLE OIL COATING, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, RASPBERRY SWIRL, RASPBERRY PUREE, SUGAR, WATER, LEMON JUICE CONCENTRATE, PECTIN, NATURAL FLAVOR, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, SOYBEAN OIL"
+    "ingredients": "WHITE CHOCOLATE ICE CREAM, CREAM, SKIM MILK, SUGAR, EGG YOLKS, COCOA BUTTER, NATURAL FLAVOR, MILK CHOCOLATE AND VEGETABLE OIL COATING, MILK CHOCOLATE, SUGAR, WHOLE MILK POWDER, CHOCOLATE, COCOA BUTTER, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, RASPBERRY SWIRL, RASPBERRY PUREE, SUGAR, WATER, LEMON JUICE CONCENTRATE, PECTIN, NATURAL FLAVOR, DARK CHOCOLATE, SUGAR, CHOCOLATE, SOY LECITHIN, VANILLA EXTRACT, COCONUT OIL, SOYBEAN OIL",
+    "price": 100
   }
 ]
