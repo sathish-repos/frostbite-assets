@@ -1,7 +1,7 @@
 const express = require("express");
 const path = require("path");
 const cors = require("cors");
-const vercelAnalytics = require("@vercel/analytics")
+const vercelAnalytics = require("@vercel/analytics");
 
 const products = require("./public/ice-creams/products.json");
 const reviews = require("./public/ice-creams/reviews.json");
@@ -12,7 +12,8 @@ vercelAnalytics.inject();
 
 // Allow only a specific domain
 const allowedDomains = [
-  "https://frostbite-flax.vercel.app"
+  "https://frostbite-flax.vercel.app",
+  "http://localhost:4200",
 ];
 
 const corsOptions = {
