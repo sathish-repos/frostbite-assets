@@ -37,7 +37,7 @@ app.get("/", (req, res) =>
           color: #222;
           margin: 0;
           padding: 0;
-          min-height: 100vh;
+          min-height: 100vh; 
         }
         .container {
           max-width: 600px;
